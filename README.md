@@ -1,24 +1,37 @@
-# github_profiles
+# ✔ Indice 
 
-## Project setup
-```
-yarn install
-```
+- [Sobre](#-sobre)
+- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [Como Baixar o Projeto](#-como-baixar-o-projeto)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+---
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## 📜 Sobre 
 
-### Lints and fixes files
-```
-yarn lint
-```
+O projeto do **Github Profiles** para aprimorar os conhecimentos de frontend e Vue. Tem o objetivo de testar as habilidades e a ideia veio do repositório https://github.com/florinpop17/app-ideas.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+---
+
+## 🚀 Tecnologias Utilizadas
+
+O projeto foi desenvolvido utilizando as as seguintes tecnologias.
+
+- Vue, sass, css, html e Javascript.
+
+---
+
+## 📦 Como Baixar o Projeto
+
+```bash
+$ git clone https://github.com/Paulohz/Gihub_Profiles
+
+# Instalar as dependências
+$ yarn install
+
+# Iniciar o projeto 
+$ yarn serve
+
+# Compilar para produção
+$ yarn build
+
+```

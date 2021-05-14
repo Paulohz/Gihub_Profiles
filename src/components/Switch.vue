@@ -35,7 +35,7 @@ export default defineComponent({
 
 </script>
 
-<style>
+<style scoped lang="scss">
 .switch {
   position: relative;
   display: inline-block;

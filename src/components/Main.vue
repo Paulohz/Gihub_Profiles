@@ -84,6 +84,8 @@ form {
   input {
     padding: 10px;
     border: none;
+    max-width: 200px;
+    width: 100%;
   }
 
   button {

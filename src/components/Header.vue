@@ -51,5 +51,9 @@ header {
   h1 {
     color: var(--text-title);
   }
+
+  @media (max-width: 1024px) {
+    padding: 10px;
+  }
 }
 </style>

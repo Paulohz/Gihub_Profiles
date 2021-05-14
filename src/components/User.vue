@@ -38,6 +38,14 @@ export default defineComponent({
     margin-top: 50px;
     gap: 50px;
     color: var(--text-body);
+
+    img {
+      max-width: 364px;
+      width: 100%;
+    }
+    @media (max-width: 1024px) {
+      flex-direction: column;
+    }
   }
 
 </style>
